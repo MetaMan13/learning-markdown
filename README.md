@@ -2,7 +2,9 @@
 
 ### References
 
-<https://www.markdownguide.org/basic-syntax/>
+- Documentation <https://www.markdownguide.org/basic-syntax/>
+
+- Emojis <https://gist.github.com/rxaviers/7360908>
 
 #### Extensions for VScode
 
